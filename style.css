@@ -1,0 +1,38 @@
+h1 {
+    text-align: center; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 50px; 
+    color: #4387a2; 
+    margin: 0; 
+}
+
+
+
+.textbox {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    width: 450px; 
+    height: 175px; 
+    border: 6px solid #4387a2; 
+    border-radius: 20px;
+    background-color: #e87e63; 
+    color: white; 
+    font-size: 15px; 
+    padding: 10px 20px; 
+    margin: 20px auto; 
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+button {margin-left: 20px; 
+
+    background-color: #4387a2; 
+    color: white; 
+    border: solid 2px #06465f;
+    border-radius: 20px;  
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    
+}
