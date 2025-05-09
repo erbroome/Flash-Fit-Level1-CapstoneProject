@@ -1,3 +1,5 @@
+
+
 h1 {
     text-align: center; 
     font-family: 'Arial', sans-serif; 
@@ -53,19 +55,19 @@ footer {
     background-color: #118ab2; 
     border-radius: 10px;
     border: 2px solid #073b4c;
-    width: 500px; 
+    width: 700px; 
     margin-left: auto; 
     margin-right: auto; 
 }
 
 p {
-
+    text-align: center;
     max-width: 600px;
     margin: 0 auto;
 }
 
 img {
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -86,3 +88,20 @@ h3 {
     margin-left: auto; 
     margin-right: auto; 
 }
+.center-button {
+    display: block;
+    margin: 30px auto; 
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+a {
+    display: inline-block;
+    margin: 0px; 
+    text-decoration: none; 
+    color: #073b4c; 
+    font-weight: bold; 
+    margin-left: center;
+    margin-right: center;
+    
+  }

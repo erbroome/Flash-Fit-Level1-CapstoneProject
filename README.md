@@ -7,3 +7,4 @@
 # used a for loop to pick randomly sets of 4 exercises
 # used css to add style (fix color scheme)
 # added navbar pages
+# added another Navbar file

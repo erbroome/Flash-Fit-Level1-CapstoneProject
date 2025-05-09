@@ -26,6 +26,7 @@ let allExercises = [
         selected.push(allExercises[randomIndex]);
       }
       console.log("Selected exercise: " + allExercises[randomIndex]);
+      
     }
   
     // exercises into the HTML
