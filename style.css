@@ -51,7 +51,37 @@ footer {
     margin-top: 20px; 
     padding: 10px; 
     background-color: #118ab2; 
-    border-radius: 5px;
+    border-radius: 10px;
+    border: 2px solid #073b4c;
+    width: 500px; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+p {
+
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 2px solid #073b4c;
+}
+h3 {
+    text-align: center; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 20px; 
+    color: #073b4c; 
+    margin: 0; 
+    padding: 10px; 
+    background-color: none; 
+    border-radius: 10px;
+    border: 2px solid #073b4c;
     width: 500px; 
     margin-left: auto; 
     margin-right: auto; 
