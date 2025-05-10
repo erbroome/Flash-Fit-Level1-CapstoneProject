@@ -5,9 +5,7 @@
 let allExercises = [
     "Push-ups", "Squats", "Jumping Jacks", "Lunges",
     "Plank", "Sit-ups", "Mountain Climbers", "Burpees",
-    "High Knees", "Butt Kicks", "Bicycle Crunches", "Wall Sit", "Tricep Dips",
-    "Leg Raises", "Russian Twists", "Side Plank", "Glute Bridges", "donkey kicks",
-    "Superman", "Flutter Kicks", "Reverse Crunches", "T-Push-ups", "Skaters", "calf raises", "Hip Thrusts", "Side Lunges", "Jump Squats", "Box Jumps",   
+    "High Knees", "Butt Kicks", "Bicycle Crunches", "Wall Sit", "Tricep Dips", "Leg Raises", "Russian Twists", "Side Plank", "Glute Bridges", "donkey kicks", "Superman", "Flutter Kicks", "Reverse Crunches", "T-Push-ups", "Skaters", "calf raises", "Hip Thrusts", "Side Lunges", "Jump Squats", "Box Jumps",   
   ];
   
   // Function that runs when button is clicked
@@ -26,7 +24,7 @@ let allExercises = [
         selected.push(allExercises[randomIndex]);
       }
       console.log("Selected exercise: " + allExercises[randomIndex]);
-      
+
     }
   
     // exercises into the HTML

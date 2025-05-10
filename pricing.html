@@ -37,6 +37,7 @@
             </span>
           </div>
         </div>
+        <button onclick="toggleDarkMode()">Toggle Dark Mode</button>
       </nav>
 
     <h1>Our Packages</h1>
@@ -82,5 +83,10 @@
     <footer>contact us: 800-888-8888</footer>
     <br>
     <br>
+    <script>
+        function toggleDarkMode() {
+          document.body.classList.toggle("dark-mode");
+        }
+    </script>
 </body>
 </html>
